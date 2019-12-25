@@ -3,6 +3,7 @@ RENCANA BELAJAR PR0GR4M3RS
 -Javascript
  *ES6
  *Framework Javascript
+-Mikrotik
 -Bahasa pemprograman
 -PHP
 -Cisco
