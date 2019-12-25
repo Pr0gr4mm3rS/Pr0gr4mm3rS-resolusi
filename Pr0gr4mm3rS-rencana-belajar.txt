@@ -4,6 +4,7 @@ RENCANA BELAJAR PR0GR4M3RS
  *ES6
  *Framework Javascript
   ^vue
+  ^React
 -Mikrotik
 -Bahasa pemprograman
 -PHP
