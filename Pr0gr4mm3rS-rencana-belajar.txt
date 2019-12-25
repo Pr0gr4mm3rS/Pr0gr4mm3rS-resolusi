@@ -1,0 +1,8 @@
+RENCANA BELAJAR PR0GR4M3RS
+
+-Javascript
+ *ES6
+ *Framework Javascript
+-Bahasa pemprograman
+-PHP
+-Cisco
