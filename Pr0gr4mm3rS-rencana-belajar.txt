@@ -10,3 +10,4 @@ RENCANA BELAJAR PR0GR4M3RS
 -PHP
  ^ Laravel
 -Cisco
+-python
