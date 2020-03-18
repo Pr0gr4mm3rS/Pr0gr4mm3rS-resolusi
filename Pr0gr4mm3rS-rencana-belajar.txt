@@ -6,6 +6,7 @@ RENCANA BELAJAR PR0GR4M3RS
   ^ Angular
   ^ React
 -Mikrotik
+-HTML
 -Bahasa pemprograman
 -PHP
  ^ Laravel
