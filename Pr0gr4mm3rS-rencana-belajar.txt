@@ -6,9 +6,9 @@ RENCANA BELAJAR PR0GR4M3RS
   ^ Angular
   ^ React
 -Mikrotik
--HTML
+-HTML ( sudah dikuasai )
 -Bahasa pemprograman
 -PHP
  ^ Laravel
--Cisco
+-Cisco ( sudah dikuasai )
 -python
