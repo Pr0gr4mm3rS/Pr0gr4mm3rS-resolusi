@@ -12,3 +12,5 @@ RENCANA BELAJAR PR0GR4M3RS
  ^ Laravel
 -Cisco ( sudah dikuasai )
 -python
+-CSS ( sudah dikuasai )
+-CSS LAYOUTING ( sudah dikuasai )
