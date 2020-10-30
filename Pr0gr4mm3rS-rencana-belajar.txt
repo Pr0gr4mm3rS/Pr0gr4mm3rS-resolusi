@@ -1,14 +1,14 @@
 RENCANA BELAJAR PR0GR4M3RS
 
--Javascript
+-Javascript dasar( sudahDikuasai )
  *ES6
  *Framework Javascript
   ^ Angular
   ^ React
--Mikrotik
+-Mikrotik ( sudah dikuasai )
 -HTML ( sudah dikuasai )
 -Bahasa pemprograman
--PHP
+-PHP( $edang belajar )
  ^ Laravel
 -Cisco ( sudah dikuasai )
 -python
